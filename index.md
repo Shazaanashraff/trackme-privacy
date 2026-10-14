@@ -1,11 +1,11 @@
-# Privacy Policy — TrackMe (Passenger App) & TrackMe Driver
+# Privacy Policy — Pingo (Passenger App) & Pingo Driver
 
-**Last updated:** September 21, 2026
+**Last updated:** October 14, 2026
 
-This policy covers both TrackMe mobile apps published by Shazaan Ashraff:
+This policy covers both Pingo mobile apps published by Shazaan Ashraff:
 
-- **TrackMe** (passenger app, package `com.TrackMe.userapp`)
-- **TrackMe Driver** (driver app, package `com.TrackMe.driverapp`)
+- **Pingo** (passenger app, package `com.pingo.userapp`)
+- **Pingo Driver** (driver app, package `com.pingo.driverapp`)
 
 If you have questions about this policy or want to exercise any of the rights below, contact
 **mohamedshazaan7@gmail.com**.
